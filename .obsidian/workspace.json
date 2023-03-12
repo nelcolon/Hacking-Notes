@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "246126ec819bc8d6",
+        "id": "f7aa48e856ad9bdb",
         "type": "tabs",
         "children": [
           {
-            "id": "8ddf48d283894f00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Enumeration/Linux - Enumeration.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "90abbadc0339203b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Enumeration/Linux - Enumeration.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d1a1a46782a94ba",
+            "id": "f5b6ea26a7e4b02b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,79 +20,79 @@
             }
           },
           {
-            "id": "0e59ddbc853cc7c4",
+            "id": "708654e300519cbe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Enumeration/nmap.md",
+                "file": "HTB/Linux/MetaTwo/Web.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ff5ed04884915604",
+            "id": "751f9640f7f0600c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Enumeration/Linux - Enumeration.md",
+                "file": "Enumeration/API.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d4f08a6deabf80b4",
+            "id": "dd18ef7b03cd96c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Enumeration/Web Methodology.md",
+                "file": "HTB/Linux/Agile/Enumeration.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a617c786b3302247",
+            "id": "42b174085f5fec29",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Containers/Escaping.md",
+                "file": "DevSecOps/Concepts.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "83f876e7e1899b49",
+            "id": "a88badfb8d9e7ced",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Containers/Enumeration.md",
+                "file": "HTB/Linux/Inject/Enumeration.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "20148147dd034460",
+            "id": "e6cb619a5348668c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Enumeration/Web Methodology.md",
+                "file": "Privilege Escalation/Linux.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -182,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Enumeration/Web Methodology.md",
+                "file": "Privilege Escalation/Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Enumeration/Web Methodology.md",
+                "file": "Privilege Escalation/Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Enumeration/Web Methodology.md"
+                "file": "Privilege Escalation/Linux.md"
               }
             }
           }
@@ -243,16 +219,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "20148147dd034460",
+  "active": "e6cb619a5348668c",
   "lastOpenFiles": [
-    "Containers/Escaping.md",
-    "Enumeration/Web Methodology.md",
+    "HTB/Linux/Inject/Enumeration.md",
+    "Privilege Escalation/Linux.md",
+    "Privilege Escalation",
+    "Enumeration/API.md",
+    "DevSecOps/Enumeration.md",
+    "Pasted image 20230310173019.png",
+    "Pasted image 20230312114245.png",
+    "HTB/Linux/Inject",
+    "Articles.md",
+    "FqyxBBeaAAApnad.jpg",
     "DevSecOps/Concepts.md",
-    "Enumeration/Linux - Enumeration.md",
+    "HTB/Linux/Soccer/BackEnd.md",
+    "HTB/Linux/Soccer/Enumeration.md",
+    "HTB/Linux/Agile/Credentials.md",
+    "Containers/Escaping.md",
     "Containers/Enumeration.md",
+    "Pasted image 20230307205333.png",
+    "HTB/Linux/Soccer",
+    "HTB/Linux/Agile/Enumeration.md",
+    "Enumeration/Web Methodology.md",
     "Enumeration/nmap.md",
+    "Enumeration/Linux - Enumeration.md",
     "Incident Response/Enumeration of machine.md",
-    "Linux/Undetected.md",
-    "Linux/Rainyday/Web Directories.md"
+    "Pasted image 20230305022719.png",
+    "HTB/Linux/Agile",
+    "HTB",
+    "HTB/Linux/MetaTwo/Web.md",
+    "Enumeration/Untitled",
+    "Pasted image 20230227232228.png",
+    "HTB/Linux/MetaTwo",
+    "Pasted image 20230220002248.png",
+    "README.md",
+    "HTB/Linux/Undetected.md",
+    "HTB/Linux/Rainyday/Web Directories.md"
   ]
 }
